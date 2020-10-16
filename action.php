@@ -4,7 +4,7 @@
     
 
 
-<body>
+
 
     Thanks for completing my form.
     Your name has been registered as: <?php echo htmlspecialchars($_GET['name']); ?>.<br>
